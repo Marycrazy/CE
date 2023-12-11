@@ -1,0 +1,11 @@
+Atualize o símbolo #GND01 de 'Simulation_SPICE:0' para 'Simulation_SPICE:0': OK
+Atualize o símbolo R4 de 'Device:R_Photo' para 'Device:R_Photo': OK
+Atualize o símbolo BZ1 de 'Device:Buzzer' para 'Device:Buzzer': OK
+Atualize o símbolo D1 de 'Device:LED' para 'Device:LED': OK
+Atualize o símbolo U1 de 'Sensor_Temperature:TMP20AIDCK' para 'Sensor_Temperature:TMP20AIDCK': OK
+Atualize o símbolo R1 de 'Device:R_US' para 'Device:R_US': OK
+Atualize o símbolo R2 de 'Device:R_US' para 'Device:R_US': OK
+Atualize o símbolo A2 de 'MCU_Module:Arduino_UNO_R2' para 'MCU_Module:Arduino_UNO_R2': OK
+Atualize o símbolo #PWR01 de 'power:+5V' para 'power:+5V': OK
+Atualize o símbolo R3 de 'Device:R_US' para 'Device:R_US': OK
+Atualize o símbolo U2 de 'Sensor_Gas:MQ-6' para 'Sensor_Gas:MQ-6': OK
